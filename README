@@ -1,0 +1,12 @@
+This is a small night-project I set up mostly for the fun of it, and partly because I
+tend to want to know the current week, but never check it in my Google Calendar.
+This allows me to see it monday morning on my way to work while browsing other tweets.
+
+Makes use of the python-twitter API-wrapper, http://code.google.com/p/python-twitter/
+Icon is from http://dryicons.com/icon/coquette-icons-set/calendar-empty/
+
+Feel free to use it!
+
+John Häggkvist
+http://johnhaggkvist.se
+http://twitter.com/johnhaggkvist
